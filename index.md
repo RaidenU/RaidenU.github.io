@@ -1,7 +1,7 @@
 
 #Raiden Urena's Portfolio
 
-I am a Computer Science Major at CSUF and I plan on graduating in 2028.
+I am a Computer Science Major at CSUF and I plan on graduating in 2028, I might transfer though.
 
 ##Favorite CPSC 120L Labs
 
